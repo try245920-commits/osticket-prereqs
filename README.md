@@ -2,14 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Precondtions and Setup </h1>
+<h1>Installation with Prerequisites Tutorial of OsTicketing </h1>
 This section demonstrates the precondtions  and setup of osTicket by identifying system preconditions  and completing the installation and configuration process to support help desk operations.br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=Kscty7Zg-Iw)
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
