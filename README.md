@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Precondtions and Setup </h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This section demonstrates the precondtions  and setup of osTicket by identifying system preconditions  and completing the installation and configuration process to support help desk operations.br />
 
 
 <h2>Video Demonstration</h2>
