@@ -43,7 +43,7 @@ Sign in to the Azure portal and create a new Virtual Machine.
 Choose Windows 10 as the operating system and select a size with 4 vCPUs.
 Name the VM osticket-vm.
 Create login credentials:
-Username: labuser
+Username
 Password: osTicketPassword1!
 Allow Remote Desktop (RDP) access so you can log into the VM.
 <img width="2640" height="1392" alt="image" src="https://github.com/user-attachments/assets/8410d782-1337-469e-a52f-30db6f94c135" />
