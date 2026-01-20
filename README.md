@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Precondtions and Setup </h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Precondtions </h2>
 
 - Create an Virtual Machine through Microsoft Azure 
 - Login into the Virtual Machine 
@@ -35,7 +35,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Database
 - Complete Broweser Setup
 - Acess OsTicket
-- Cleanup
 
 <h2>Installation Steps</h2>
 
@@ -44,10 +43,11 @@ Choose Windows 10 as the operating system and select a size with 4 vCPUs.
 Name the VM osticket-vm.
 Create login credentials:
 Username
-Password: osTicketPassword1!
+Password
 Allow Remote Desktop (RDP) access so you can log into the VM.
 <img width="2640" height="1392" alt="image" src="https://github.com/user-attachments/assets/8410d782-1337-469e-a52f-30db6f94c135" />
-<p> <img width="1594" height="492" alt="image" src="https://github.com/user-attachments/assets/3ca3d379-24d0-40fa-ad89-ff8cc1ec4b10" />
+<p> <img width="1594" height="492" alt="image" src="https://github.com/user-attachments/assets/3ca3d379-24d0-40fa-ad89-ff8cc1ec4b10" /> 
+  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
