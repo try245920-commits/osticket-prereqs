@@ -1,4 +1,6 @@
-# osTicket on Azure — Prerequisites & Installation Lab
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p># osTicket on Azure — Prerequisites & Installation Lab
 
 ## Summary
 This project documents how I deployed the osTicket help desk ticketing system in a Microsoft Azure lab environment. It includes prerequisites, installation steps, configuration, testing, and troubleshooting notes.
